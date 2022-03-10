@@ -39,7 +39,7 @@ collections: # A list of collections the CMS should be able to edit
           # - {label: "Values", name: "values", widget: "object", fields: [
           #     {label: "Heading", name: "heading", widget: string},
           #     {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Blockquotes", name: "values", widget: "object", fields: [
+          - {label: "Blockquotes", name: "blockquotes", widget: "object", fields: [
               {label: "Quote", name: "quote", widget: "text"},
               {label: "Author", name: "author", widget: "text"}]}
       - file: "site/content/contact/_index.md"

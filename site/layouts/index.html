@@ -9,6 +9,6 @@
 <!-- {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }} -->
 
 <!-- {{ partial "blog" . }} -->
-{{ partial "blockquote" .Params }}
+{{ partial "blockquote" (dict "quote" .Params.quote "author" .Params.author) }}
 
 {{ end }}
