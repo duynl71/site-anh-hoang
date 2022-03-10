@@ -2,6 +2,8 @@ backend:
   name: github
   repo: duynl71/site-anh-hoang
   branch: master
+  base_url: https://competent-pare-cfaaf9.netlify.app/
+  auth_endpoint: auth
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
