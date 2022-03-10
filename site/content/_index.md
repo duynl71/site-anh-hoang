@@ -38,4 +38,7 @@ values:
     Một trong những đơn vị thi công chống thấm uy tín, chuyên nghiệp hàng đầu hiện nay chính là Công ty Chống thấm Thành Tâm. Sở hữu đội ngũ nhân viên lành nghề và áp dụng công nghệ chống thấm mới nhất.
   quote: Ngã ở đâu gấp 3 ở đó
   author: Internet
+blockquotes:
+  quote: Ngã ở đâu gấp ba ở đó
+  author: internet
 ---
