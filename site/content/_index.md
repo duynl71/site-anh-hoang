@@ -2,7 +2,7 @@
 title: Dịch vụ chống thấm dột
 subtitle: Trong những năm gần đây, các chủ nhà đã chú trọng hơn đến dịch vụ
   chống thấm dột. Tuy nhiên vẫn còn khá nhiều người mơ hồ về dịch vụ này.
-image: /img/home-jumbotron.jpg
+image: img/chong-tham-composite-cho-san-thuong.jpg
 blurb:
   heading: Chống thấm là gì?
   text: Hiểu đơn giản thì chống thấm là quá trình làm cho một vật thể hoặc một cấu
@@ -17,11 +17,11 @@ intro:
 
     Cụ thể, các lợi ích của dịch vụ chống thấm dột bao gồm:
 products:
-  - image: img/illustrations-coffee.svg
+  - image: img/129.jpg
     text: "Kéo dài tuổi thọ: Chống thấm giúp bảo vệ các hạng mục được thi công khỏi
       tác hại của nước và độ ẩm, từ đó duy trì tính toàn vẹn cấu trúc, làm tăng
       tuổi thọ cho công trình."
-  - image: /img/illustrations-coffee-gear.svg
+  - image: img/9.jpg
     text: "Đảm bảo thẩm mỹ cho công trình: Khi được thi công chống thấm, công trình
       của bạn sẽ không bị ẩm mốc, nứt nẻ hay xuất hiện các mùi hôi khó chịu do
       nồm ẩm nữa. Từ đó đảm bảo tính thẩm mỹ và vẻ đẹp lâu dài."
